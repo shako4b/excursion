@@ -1,9 +1,24 @@
-html {
-  font-family: Helvetica;
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
 }
 h1 {
-  color: coral;
+  font-size: 50px;
+  color: white;
+}
+h2 {
+  font-size: 42px;
+  color: white;
+}
+p {
+  color: gray;
+  font-size: 21px;
 }
 .dnlink {
-  color: green;
+  color: aquamarine;
+  font-size: 16px;
+}
+.copyright {
+  text-align: right;
 }
